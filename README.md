@@ -44,9 +44,10 @@ ResearchToolkitHub（研究工具集中库）项目致力于收集各大高校�
 - [清华知识工程实验室：如何做好学术检索](https://aitime-lundao.oss-cn-beijing.aliyuncs.com/AitimeReport/20210520/aitime%20jsfx-8.pdf)
 
 ## 信息及电气学科相关
+- [IEEE Xplore使用指南](https://www.pcl.ac.cn/attachment/file/IEEE%E6%95%B0%E6%8D%AE%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.pdf)
 - [清华图书馆：信息及电气学科文献资源利用方法概述](https://lib.tsinghua.edu.cn/__local/9/A5/24/BBCE461820E4FC615DB71CAB868_7EF4A8B3_189395.pdf?e=.pdf)
 - [IEEE科研达人养成记-精确获取科研讯息，高效发表学术论文](https://libw.cuc.edu.cn/_upload/article/files/ac/9f/241ce46a4f7a9238002760694eae/bae77693-6123-46cb-a792-5006178717cc.pdf)
-- [IEEE Xplore使用指南](https://lib.bupt.edu.cn/a/jieshaoxinxijihe/2015/0114/IEEE%20Xplore%E5%B9%B3%E5%8F%B0%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97-2022.2.25.pdf)
+- [IEEE Xplore平台使用指南](https://lib.bupt.edu.cn/a/jieshaoxinxijihe/2015/0114/IEEE%20Xplore%E5%B9%B3%E5%8F%B0%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97-2022.2.25.pdf)
 - [南开图书馆：信息及电气工程学科常用数据库检索方法](https://lib.nankai.edu.cn/_upload/article/files/43/b3/e12a18ad4f2e9f78a9e63a700074/7209350f-00bb-49da-9da3-5ba7d3c3b9e9.pdf)
 - [上海科技大学图书馆：信息科技领域科技文献检索](https://library.shanghaitech.edu.cn/_upload/article/files/5e/73/96adfe2b4361bd3a20e2bf0d49bc/d4bc2c39-e733-4d5f-a0a4-481b9e706c05.pdf)
 - [复旦图书馆：英文科技论文的写作与投稿](http://www.library.fudan.edu.cn/_upload/article/files/52/49/640ba0ac4893a4716a68815e61d1/6b2f6efe-7edb-4dbd-8d8c-e3405f5e44d0.pdf)
