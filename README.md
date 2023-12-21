@@ -41,6 +41,7 @@ ResearchToolkitHub（研究工具集中库）项目致力于收集各大高校�
 - [厦大图书馆：如何高效使用搜索引擎](https://lecture.xmu.edu.cn/system/files/ppts/i%E5%AD%A6%E5%A0%82%EF%BC%9A%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E4%B8%8E%E7%BD%91%E7%BB%9C%E5%AD%A6%E4%B9%A0.pdf)
 - [清华图书馆：Internet免费学术资源检索与利用](https://lib.tsinghua.edu.cn/__local/5/3D/13/AE4CD16A3A3FCB8653FFF4EB9E3_C93F42B2_63C33E.pdf?e=.pdf)
 - [清华：开放学术环境下免费资源与工具的利用](https://lib.tsinghua.edu.cn/__local/7/C6/B1/F2E8AD6859423A8E719B8B6F7C0_04BD337E_80C47D.pdf?e=.pdf)
+- [清华知识工程实验室：如何做好学术检索](https://aitime-lundao.oss-cn-beijing.aliyuncs.com/AitimeReport/20210520/aitime%20jsfx-8.pdf)
 
 ## 信息及电气学科相关
 - [清华图书馆：信息及电气学科文献资源利用方法概述](https://lib.tsinghua.edu.cn/__local/9/A5/24/BBCE461820E4FC615DB71CAB868_7EF4A8B3_189395.pdf?e=.pdf)
@@ -57,8 +58,10 @@ ResearchToolkitHub（研究工具集中库）项目致力于收集各大高校�
 - [东大图书馆：如何做好 PPT](http://www.lib.seu.edu.cn/upload_files/file/20221021/_20221021000659.pdf)
 - [武大图书馆：PPT速成技巧及心得感悟](https://www.lib.whu.edu.cn/webfile/upload/2021/11-17/11-56-420657-351664490.pdf)
 - [中国科大：如何写好⼀份学术报告 & LaTeX 的使用](https://cicpi.ustc.edu.cn/indico/getFile.py/access?sessionId=0&resId=0&materialId=0&confId=867)
-- [武大：学术汇报PPT设计与制作](http://library.wsyu.edu.cn/wcm.files/upload/CMSxxzx/201812/201812101021039.pdf)
+- [武昌首义学院图书馆：学术汇报PPT设计与制作](http://library.wsyu.edu.cn/wcm.files/upload/CMSxxzx/201812/201812101021039.pdf)
 - [机器翻译学术论⽂写作⽅法和技巧](https://nlp.csai.tsinghua.edu.cn/~ly/talks/cwmt14_tut.pdf)
+- [中国人大图书馆：如何做好PPT？](http://www.lib.ruc.edu.cn/uploads/1/file/public/202006/20200612112923_obp5n6kevk.pdf)
+- [华农：PPT视觉化表达](https://peixun.scau.edu.cn/_upload/article/files/10/22/bb55c0a740d695f6b647f72d7eb1/1a615f0c-1ccc-4a6f-b197-990c8931de6a.pdf)
 
   
 ## 专利
@@ -66,6 +69,7 @@ ResearchToolkitHub（研究工具集中库）项目致力于收集各大高校�
 - [清华图书馆：中外专利数据库的检索与利用](https://lib.tsinghua.edu.cn/__local/0/17/CB/70A6213149F2B2BF4C1FC460A20_40B26D4D_9779A1.pdf?e=.pdf)
 - [北邮图书馆：专利数据库的检索与分析](https://lib.bupt.edu.cn/infoserver/infoneirong/kejiandoc/2018/%E7%AC%AC%E5%8D%81%E5%85%AD%E8%AE%B2-%E4%B8%93%E5%88%A9%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9A%84%E6%A3%80%E7%B4%A2%E4%B8%8E%E5%88%86%E6%9E%90.pdf)
 
-## 参考文献格式规范
+## 写作 & 参考文献格式规范
 - [中华人民共和国国家标准GB/T7714—2015 信息与文献 参考文献著录规则](https://lib.tsinghua.edu.cn/wj/GBT7714-2015.pdf)
 - [北邮：参考文献格式规范](https://journal.bupt.edu.cn/attached/file/20220426/20220426182408_10.pdf)
+- [电子科大图书馆：使用Latex撰写毕业论文](https://bingtan.me/files/material/2019LaTeX_UESTC.pdf)
