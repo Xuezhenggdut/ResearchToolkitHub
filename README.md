@@ -53,3 +53,7 @@ ResearchToolkitHub（研究工具集中库）项目致力于收集各大高校�
 - [复旦图书馆：专利基础知识及常用专利检索数据库](http://www.library.fudan.edu.cn/_upload/article/files/aa/72/92e0010b4e2fa689292043cdeb1f/25ef36a7-d516-400c-82de-622a7ff083ae.pdf)
 - [清华图书馆：中外专利数据库的检索与利用](https://lib.tsinghua.edu.cn/__local/0/17/CB/70A6213149F2B2BF4C1FC460A20_40B26D4D_9779A1.pdf?e=.pdf)
 - [北邮图书馆：专利数据库的检索与分析](https://lib.bupt.edu.cn/infoserver/infoneirong/kejiandoc/2018/%E7%AC%AC%E5%8D%81%E5%85%AD%E8%AE%B2-%E4%B8%93%E5%88%A9%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9A%84%E6%A3%80%E7%B4%A2%E4%B8%8E%E5%88%86%E6%9E%90.pdf)
+
+## 参考文献格式规范
+- [中华人民共和国国家标准GB/T7714—2015 信息与文献 参考文献著录规则](https://lib.tsinghua.edu.cn/wj/GBT7714-2015.pdf)
+- [北邮：参考文献格式规范](https://journal.bupt.edu.cn/attached/file/20220426/20220426182408_10.pdf)
