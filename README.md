@@ -40,6 +40,7 @@ ResearchToolkitHub（研究工具集中库）项目致力于收集各大高校�
 ## 检索
 - [厦大图书馆：如何高效使用搜索引擎](https://lecture.xmu.edu.cn/system/files/ppts/i%E5%AD%A6%E5%A0%82%EF%BC%9A%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E4%B8%8E%E7%BD%91%E7%BB%9C%E5%AD%A6%E4%B9%A0.pdf)
 - [清华图书馆：Internet免费学术资源检索与利用](https://lib.tsinghua.edu.cn/__local/5/3D/13/AE4CD16A3A3FCB8653FFF4EB9E3_C93F42B2_63C33E.pdf?e=.pdf)
+- [清华：开放学术环境下免费资源与工具的利用](https://lib.tsinghua.edu.cn/__local/7/C6/B1/F2E8AD6859423A8E719B8B6F7C0_04BD337E_80C47D.pdf?e=.pdf)
 
 ## 信息及电气学科相关
 - [清华图书馆：信息及电气学科文献资源利用方法概述](https://lib.tsinghua.edu.cn/__local/9/A5/24/BBCE461820E4FC615DB71CAB868_7EF4A8B3_189395.pdf?e=.pdf)
@@ -48,6 +49,17 @@ ResearchToolkitHub（研究工具集中库）项目致力于收集各大高校�
 - [南开图书馆：信息及电气工程学科常用数据库检索方法](https://lib.nankai.edu.cn/_upload/article/files/43/b3/e12a18ad4f2e9f78a9e63a700074/7209350f-00bb-49da-9da3-5ba7d3c3b9e9.pdf)
 - [上海科技大学图书馆：信息科技领域科技文献检索](https://library.shanghaitech.edu.cn/_upload/article/files/5e/73/96adfe2b4361bd3a20e2bf0d49bc/d4bc2c39-e733-4d5f-a0a4-481b9e706c05.pdf)
 - [复旦图书馆：英文科技论文的写作与投稿](http://www.library.fudan.edu.cn/_upload/article/files/52/49/640ba0ac4893a4716a68815e61d1/6b2f6efe-7edb-4dbd-8d8c-e3405f5e44d0.pdf)
+
+
+## PPT
+- [厦大图书馆：如何制作有颜有料的PPT](https://lecture.xmu.edu.cn/system/files/ppts/20220426%E7%AD%94%E8%BE%A9PPT%EF%BC%88%E4%BA%8C%EF%BC%89.pdf)
+- [厦大图书馆：如何制作优秀的毕业答辩PPT——实践篇](https://library.xmu.edu.cn/__local/4/D8/91/B8A019BD64DC28D37EC768D4891_E116F9B8_3F01FF.pdf?e=.pdf)
+- [东大图书馆：如何做好 PPT](http://www.lib.seu.edu.cn/upload_files/file/20221021/_20221021000659.pdf)
+- [武大图书馆：PPT速成技巧及心得感悟](https://www.lib.whu.edu.cn/webfile/upload/2021/11-17/11-56-420657-351664490.pdf)
+- [中国科大：如何写好⼀份学术报告 & LaTeX 的使用](https://cicpi.ustc.edu.cn/indico/getFile.py/access?sessionId=0&resId=0&materialId=0&confId=867)
+- [武大：学术汇报PPT设计与制作](http://library.wsyu.edu.cn/wcm.files/upload/CMSxxzx/201812/201812101021039.pdf)
+- [机器翻译学术论⽂写作⽅法和技巧](https://nlp.csai.tsinghua.edu.cn/~ly/talks/cwmt14_tut.pdf)
+
   
 ## 专利
 - [复旦图书馆：专利基础知识及常用专利检索数据库](http://www.library.fudan.edu.cn/_upload/article/files/aa/72/92e0010b4e2fa689292043cdeb1f/25ef36a7-d516-400c-82de-622a7ff083ae.pdf)
