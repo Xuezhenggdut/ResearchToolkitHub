@@ -74,3 +74,5 @@ ResearchToolkitHub（研究工具集中库）项目致力于收集各大高校�
 - [中华人民共和国国家标准GB/T7714—2015 信息与文献 参考文献著录规则](https://lib.tsinghua.edu.cn/wj/GBT7714-2015.pdf)
 - [北邮：参考文献格式规范](https://journal.bupt.edu.cn/attached/file/20220426/20220426182408_10.pdf)
 - [电子科大图书馆：使用Latex撰写毕业论文](https://bingtan.me/files/material/2019LaTeX_UESTC.pdf)
+- [北邮图书馆：批判性阅读方法与论文写作技巧](https://lib.bupt.edu.cn/infoserver/infoneirong/kejiandoc/2018/%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%BA%8C%E8%AE%B2-%E6%96%87%E7%8C%AE%E9%98%85%E8%AF%BB%E4%B8%8E%E8%AE%BA%E6%96%87%E5%86%99%E4%BD%9C.pdf)
+- [西电：Academic Paper Writing for Starters](https://web.xidian.edu.cn/ysxu/files/629ae34884d86.pdf)
