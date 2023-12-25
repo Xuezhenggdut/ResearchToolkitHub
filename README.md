@@ -64,7 +64,13 @@ ResearchToolkitHub（研究工具集中库）项目致力于收集各大高校�
 - [中国人大图书馆：如何做好PPT？](http://www.lib.ruc.edu.cn/uploads/1/file/public/202006/20200612112923_obp5n6kevk.pdf)
 - [华农：PPT视觉化表达](https://peixun.scau.edu.cn/_upload/article/files/10/22/bb55c0a740d695f6b647f72d7eb1/1a615f0c-1ccc-4a6f-b197-990c8931de6a.pdf)
 
-  
+ ## 绘图
+ - [吉大图书馆：Microsoft Visio：流程图和矢量绘图软件](http://lib.jlu.edu.cn/ued1tor/upload/file/6363113510401167758313369.pdf)
+ - [复旦图书馆：平面设计软件在科研图像处理中的应用](http://www.library.fudan.edu.cn/_upload/article/files/9b/08/48756170443e9c75d970edceaa3f/4f45a17f-30c7-4f36-b0a3-f22518400248.pdf)
+ - [OriginPro 助力科研论文创作：从数据到图形](https://library.shanghaitech.edu.cn/_upload/article/files/86/f6/57a49db24cfeacddade4bcc73bb2/0d3aca1a-cb37-4edb-9f20-830bf11cf8df.pdf)
+ - [中科大图书馆：Origin科技绘图及数据分析](https://lib.ustc.edu.cn/wp-content/uploads/2016/08/202112-Origin%E7%A7%91%E6%8A%80%E7%BB%98%E5%9B%BE%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90-%E4%B8%AD%E6%96%87.pdf)
+ - [中科大图书馆：Excel 助力学习与科研（入门篇）](https://lib.ustc.edu.cn/wp-content/uploads/2023/10/Excel%E5%8A%A9%E5%8A%9B%E7%A7%91%E7%A0%94202311-11.pdf)
+
 ## 专利
 - [复旦图书馆：专利基础知识及常用专利检索数据库](http://www.library.fudan.edu.cn/_upload/article/files/aa/72/92e0010b4e2fa689292043cdeb1f/25ef36a7-d516-400c-82de-622a7ff083ae.pdf)
 - [清华图书馆：中外专利数据库的检索与利用](https://lib.tsinghua.edu.cn/__local/0/17/CB/70A6213149F2B2BF4C1FC460A20_40B26D4D_9779A1.pdf?e=.pdf)
